@@ -5,3 +5,5 @@
  
  -----
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahruskh&show_icons=true)
+
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=mahruskh&style=flat)
